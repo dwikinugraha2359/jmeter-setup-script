@@ -4,7 +4,7 @@ Script bash for setup server to run JMeter Distributed
 
     ```
     based on M Kurniawan Reference
-    https://docs.google.com/presentation/d/1v8kQDvFLvTfLshBScUNMyKHmcJ4gJyVDiiBiXzL2yfE/edit?usp=sharing
+    [Docs](https://docs.google.com/presentation/d/1v8kQDvFLvTfLshBScUNMyKHmcJ4gJyVDiiBiXzL2yfE/edit?usp=sharing)
 	```
 
 ## Step-Step
