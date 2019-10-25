@@ -45,6 +45,10 @@ based on M Kurniawan Reference
     (its mean jmeter will run LoadTest.jmx and will get ReportTest.jtl)
     (the Report will exist on the root folder)
 	```
+	
+## Setup and Create Container easier
+
+can using "setup-and-create-container.sh"
 
 ## Built With
 
